@@ -8,5 +8,5 @@ El codigo realiza lo siguiente:
 
 # dependencias instaladas:
 
--XMLHttpRequest para las peticones a la API
--collect.js para utilizar el metodo count()
+- XMLHttpRequest para las peticones a la API
+- collect.js para utilizar el metodo count()

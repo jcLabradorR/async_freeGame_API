@@ -15,7 +15,8 @@ fetchData(API)
 .then(data => {
     console.log([
         data[0].id,
-        data[0].title
+        data[0].title,
+        data[0].platform
     ]);
 })
 .catch(err => console.error(err));
