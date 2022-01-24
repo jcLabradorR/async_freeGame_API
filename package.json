@@ -1,0 +1,20 @@
+{
+  "name": "consumo_api",
+  "version": "1.0.0",
+  "description": "practica de asincronismo consumo api freetogame.com",
+  "main": "src/index.js",
+  "scripts": {
+    "promise-free": "node src/index.js"
+  },
+  "keywords": [
+    "games",
+    "plataform",
+    "freetoGame"
+  ],
+  "author": "Julio Labrador",
+  "license": "MIT",
+  "dependencies": {
+    "collect.js": "^4.31.3",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
